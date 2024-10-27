@@ -1,4 +1,4 @@
----
+bateria 
 manufacturer: samsung
 
 ---
